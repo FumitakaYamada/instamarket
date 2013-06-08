@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+gem 'rspec-rails'
+
+gem 'erb2haml'
+gem 'haml'
+
 gem 'rails', '3.2.11'
 
 # Bundle edge Rails instead:
